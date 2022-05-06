@@ -2,8 +2,7 @@
   position: relative;
   width: 1440px;
   height: 1080px;
-  padding-top: 100px;
-
+  padding-top: 304.37px;
   background: #FAFAFB;
   border-radius: 8px;
 }
@@ -96,20 +95,40 @@ color: #828282;
   color: #BDBDBD;
 }
 
-.button{
+.chooseafile{
   margin-top: 21.62px;
   margin-left: 118.82px;
   width: 101px;
   height: 31.98px;
   background: #2F80ED;
   border-radius: 8px;
+  padding: 5px 10px;
+  color:#fff;
+  border: 0px solid #fff;
+  font-size: 12px;
+  line-height: 16px;
+  text-align: center;
+  letter-spacing: -0.035em;
+  color: #FFFFFF;
 }
 
-.rectangleVector{
-  margin-left: 111.43px;
-  margin-top: 35.84px;
-  width: 114.13px;
-  height: 88.24px;
-  border: 1px solid #BDBDBD;
+.chooseafile:hover{
+  background: #035fd8;
+}
+
+.send{
+  margin-top: 1px;
+  margin-left: 1px;
+  width: 64px;
+  height: 31.98px;
+  background: #2F80ED;
   border-radius: 8px;
+  padding: 5px 10px;
+  color:#fff;
+  border: 0px solid #fff;
+  font-size: 12px;
+  line-height: 16px;
+  text-align: center;
+  letter-spacing: -0.035em;
+  color: #FFFFFF;
 }
